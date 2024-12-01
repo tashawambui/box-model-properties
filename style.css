@@ -1,0 +1,26 @@
+h2{
+    text-align: center;
+    text-decoration-line: underline;
+    color: purple;
+}
+#div1{
+height: 485px;
+width: 390px;
+background-color: greenyellow;
+margin: 20px;
+border: 2px solid black;
+}
+#div2 {
+height: 485px;
+width: 390px;
+background-color: goldenrod;
+margin: 20px;
+border: 2px solid black
+}
+#div3 {
+height: 485px;
+width: 390px;
+background-color: yellow;
+margin: 20px;
+border: 2px solid black;
+}
